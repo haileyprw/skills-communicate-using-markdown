@@ -7,5 +7,10 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
 Updated file to practice markdown header formatting.
+
 
